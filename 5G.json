@@ -1,0 +1,8 @@
+{
+    "frequency": 28e9,        
+    "num_elements": 64,       
+    "element_spacing": 0.005, 
+    "steering_angle": 0,     
+    "is_linear": true,
+    "propagation_speed": 3e8 
+}
