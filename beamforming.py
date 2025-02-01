@@ -139,7 +139,7 @@ class BeamformingSimulator:
         # self.create_scenario_selector()
 
         # Define the handle_mode_change method
-    def handle_mode_c  hange(self, label):
+    def handle_mode_change(self, label):
         if label == 'Ultrasound':
             self.frequency = 0.5e10  # 0.500 x 10^10 Hz
             self.num_elements = 6
